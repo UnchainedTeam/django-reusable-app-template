@@ -1,4 +1,3 @@
-import json
 from django.core.exceptions import ImproperlyConfigured
 from django.shortcuts import render
 from django.conf import settings
