@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class FooConfig(AppConfig):
-    name = 'foo'
+    name = 'un_foo'

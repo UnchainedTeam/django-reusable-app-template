@@ -24,7 +24,6 @@ Quick start
 
     path('', include('un_foo.urls')),
 
-
 3. Add this variable ``FOO_SETTING`` to ``settings.py``
 
 
